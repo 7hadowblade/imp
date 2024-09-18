@@ -1,0 +1,13 @@
+[
+    {
+      "title": "First Image",
+      "paragraph": "This is the first image.",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/images/image1.jpg"
+    },
+    {
+      "title": "Second Image",
+      "paragraph": "This is the second image.",
+      "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/images/image2.jpg"
+    }
+  ]
+  
